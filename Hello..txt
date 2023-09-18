@@ -1,4 +1,4 @@
-Hello Wrold.
+Hello World !
 
 Dans le royaume binaire, tout s'entrelace,
 Un jour, un codeur débutant prit sa place.
