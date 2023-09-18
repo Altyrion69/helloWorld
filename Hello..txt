@@ -8,4 +8,13 @@ Le début d'une aventure, d'une quête sans fin,
 Le monde du codage s'ouvrit enfin.
 
 
-By GPT
+Written by Paul and his assistant GPT ;)
+
+English version:
+
+In the binary realm, with a smile on his face,
+A novice coder took his rightful place.
+He typed "Hello World" with infinite grace,
+The computer replied, "All's well in this space."
+The start of a journey, a quest without end,
+The coding world opened, my friend.
